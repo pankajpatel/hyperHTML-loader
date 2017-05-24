@@ -1,0 +1,30 @@
+{
+  "name": "hyperhtml-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for hyperHTML",
+  "main": "index.js",
+  "dependencies": {
+    "hyperhtml": "^0.10.2",
+    "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajpatel/hyperHTML-loader.git"
+  },
+  "keywords": [
+    "hyperHTML",
+    "template",
+    "webpack",
+    "loader"
+  ],
+  "author": "Pankaj Patel <patel.pankaj@live.in> (http://pankaj.pro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pankajpatel/hyperHTML-loader/issues"
+  },
+  "homepage": "https://github.com/pankajpatel/hyperHTML-loader#readme"
+}
